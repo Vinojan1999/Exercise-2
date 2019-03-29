@@ -1,0 +1,96 @@
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  font-size: 13px;
+  font-family: inherit;
+}
+
+tr.a {
+  background-color: #334FFF;
+}
+
+tr.b td.a {
+  background-color: #2608BA;
+}
+
+tr.b td.b {
+  background-color: skyblue;
+}
+
+tr.b td.c {
+  background-color: #FCC442;
+}
+
+tr.c td.a {
+  background-color: #2608BA;
+}
+
+tr.c td.b {
+  background-color: skyblue;
+}
+
+tr.c td.c {
+  background-color: #ff8080;
+}
+
+tr.d td.a {
+  background-color: #2608BA;
+}
+
+tr.d td.b {
+  background-color: #b800e6;
+}
+
+tr.d td.c {
+  background-color: skyblue;
+}
+
+tr.e td.a {
+  background-color: #2608BA;
+}
+
+tr.e td.b {
+  text-align: center;
+  background-color: #1DCA34;
+}
+
+tr.f td.a {
+  background-color: #2608BA;
+}
+
+tr.f td.b {
+  background-color: #b800e6;
+}
+
+tr.g td.a {
+  background-color: #2608BA;
+}
+
+tr.g td.b {
+  background-color: #b800e6;
+}
+
+tr.h td.a {
+  background-color: #2608BA;
+}
+
+tr.h td.a {
+  background-color: #2608BA;
+}
+
+tr.h td.b {
+  text-align: center;
+  background-color: #1DCA34;
+}
+
+tr.i td.a {
+  background-color: #2608BA;
+}
+
+tr.i td.b {
+  background-color: orange;
+}
+
+tr.i td.c {
+  background-color: red;
+}
